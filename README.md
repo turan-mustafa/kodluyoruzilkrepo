@@ -24,7 +24,7 @@ code .
 ```
 
 
-#Contributing
+# Contributing
 
 Pull requester kabul edilir. Büyük değişiklikler için lütfen önce değiştirmek istediğiniz şey ile ilgili tarışmak için bir konu açınız.
 
