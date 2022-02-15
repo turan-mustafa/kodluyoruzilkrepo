@@ -30,8 +30,4 @@ Pull requester kabul edilir. Büyük değişiklikler için lütfen önce değiş
 
 # License
 
-<<<<<<< HEAD
 [MIT](https://choosealicense.com/licenses/mit/)
-=======
-[MIT](https://choosealicense.com/licenses/mit/)
->>>>>>> 233ee7e19a7052eed9bb3989a85d4f8d9346e6db
