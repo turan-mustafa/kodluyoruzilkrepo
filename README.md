@@ -1,6 +1,6 @@
 # Patika.dev & Kodluyoruz Ilk Repo
 
-Bu repo [Patika.dev ve Kodluyoruz] (https://patika.dev) Patika Başlangıç Seviye Java ile Backend Web Development Patikası Eğitimi kapsamında oluşturduğum ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
+Bu repo [Patika.dev ve Kodluyoruz](https://patika.dev) Patika Başlangıç Seviye Java ile Backend Web Development Patikası Eğitimi kapsamında oluşturduğum ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
 # Installation
 
